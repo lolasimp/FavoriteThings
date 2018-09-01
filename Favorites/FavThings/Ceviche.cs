@@ -4,7 +4,7 @@ namespace Favorites.FavThings
 {
     class Ceviche : FavBase
     {
-        public Ceviche() : base("first")
+        public Ceviche() : base("Ceviche", "good", "fishy")
         {
         }
 
